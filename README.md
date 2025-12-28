@@ -5,14 +5,20 @@ This repository showcases my projects, skills, and learning journey as a Compute
 
 Portfolio Highlights
 🔹Clean and responsive UI
+
 🔹Project thumbnails with live demos
+
 🔹Well-structured project descriptions
+
 🔹Optimized for placement reviews & recruiter screening
 
 Tech Stack
 🔹Frontend: HTML, CSS, JavaScript
+
 🔹UI Design: Responsive layouts, modern CSS
+
 🔹Version Control: Git & GitHub
+
 🔹Desktop / Python Projects: Python, Tkinter
 
 📂 Projects
