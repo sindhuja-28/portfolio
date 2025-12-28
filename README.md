@@ -1,4 +1,5 @@
 Personal Portfolio – Sindhuja Maradana
+
 Welcome to my personal developer portfolio repository!
 This repository showcases my projects, skills, and learning journey as a Computer Science Engineering student with a strong interest in Web Development, Machine Learning, and Software Engineering.
 
