@@ -4,6 +4,7 @@ Welcome to my personal developer portfolio repository!
 This repository showcases my projects, skills, and learning journey as a Computer Science Engineering student with a strong interest in Web Development, Machine Learning, and Software Engineering.
 
 Portfolio Highlights
+
 🔹Clean and responsive UI
 
 🔹Project thumbnails with live demos
@@ -13,6 +14,7 @@ Portfolio Highlights
 🔹Optimized for placement reviews & recruiter screening
 
 Tech Stack
+
 🔹Frontend: HTML, CSS, JavaScript
 
 🔹UI Design: Responsive layouts, modern CSS
